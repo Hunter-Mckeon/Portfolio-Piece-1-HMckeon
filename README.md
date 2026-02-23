@@ -6,6 +6,8 @@ This project provides a hands-on, from-scratch exploration of scaled dot-product
 
 Through small synthetic examples and visualization, this project demonstrates how attention behaves mathematically and why key design choices (like sqrt(d_k) scaling and multiple heads) are necessary.
 
+
+
 ---
 
 ## Methods
